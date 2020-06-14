@@ -1,0 +1,48 @@
+			
+.info {
+	float:right;
+}
+img{
+	width: 450px;
+}
+body{
+	max-width:850px;
+	margin: 1em auto;
+	font-family: "Droid serif", Georgia, "Times New Roman", Times, serif;
+	border-style: solid;
+	border: 1px 1px 1px 1px;
+	border-color: #ccc;
+	padding: 20px 20px 20px 20px;
+    color: #474653;
+}
+li{
+	padding-bottom:0.5em;
+	padding-left: 0.5em;
+}
+li{
+border-top: solid 1px #d2dee2;
+
+}
+h2{
+	margin-top:0px;
+	padding-top: 10px;
+
+}
+h1,h2{
+    padding-left: 10px;
+}
+textarea{
+	margin-top:10px;
+	width: 825px;
+}
+input{
+	margin:10px;
+}
+div #bloque{
+border-style: solid;
+	border: 1px;
+}
+[vegetal="vegetal"]
+{
+	color: green !important;
+}
